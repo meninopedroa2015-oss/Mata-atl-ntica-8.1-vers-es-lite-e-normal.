@@ -20,12 +20,12 @@ Bem-vindo à página oficial de lançamento do aplicativo **Mata Atlântica**! A
 Para usar o **Mata Atlântica** no computador com ícone próprio na Área de Trabalho e janela dedicada (sem barra de navegador), instale direto pelo seu navegador:
 
 ### Pelo Google Chrome:
-1. Acesse o site oficial: **https://lovable.app**
+1. Acesse o site oficial: **https:///xp-mata-atlantica-ai.lovable.app**
 2. No canto direito da barra de endereço (lá em cima), clique no ícone de **Instalar aplicativo** *(um computador com uma seta)* — ou clique nos **três pontinhos (⋮)** > **Transmitir, salvar e compartilhar** > **Instalar página como app...**
 3. Confirme clicando em **Instalar**. O atalho será criado automaticamente na sua Área de Trabalho.
 
 ### Pelo Microsoft Edge:
-1. Acesse o site oficial: **https://lovable.app**
+1. Acesse o site oficial: **https://xp-mata-atlantica-ai.lovable.app**
 2. No canto direito da barra de endereço, clique no ícone de **Aplicativo disponível** *(três quadrados com um sinal de `+`)* — ou clique nos **três pontinhos (⋯)** > **Aplicativos** > **Instalar este site como um aplicativo**.
 3. Clique em **Instalar** e marque as opções para fixar na **Área de Trabalho** e na **Barra de Tarefas**.
 
